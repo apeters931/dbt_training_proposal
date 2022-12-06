@@ -8,7 +8,7 @@
    - [Required Readings](https://www.linkedin.com/in/alec-peters/)
    - [Recommended Readings](https://www.linkedin.com/in/alec-peters/)
 2. Pick Warehouse Stack and Get Started
-   - [Snowflake + dbt](https://www.linkedin.com/in/alec-peters/)
+   - [Snowflake + dbt](https://github.com/analytics8/dbt/tree/main/Training#steps-for-our-a8-dbt-training)
    - [bigquery + dbt](https://www.linkedin.com/in/alec-peters/)
    - [redshift + dbt](https://www.linkedin.com/in/alec-peters/)
    - [databricks + dbt](https://www.linkedin.com/in/alec-peters/)
