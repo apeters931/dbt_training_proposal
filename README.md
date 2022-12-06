@@ -2,12 +2,12 @@
 1. General Info & Pre-Requisite Trainings
 
    - [x] [dbt labs fundamentals training](https://www.linkedin.com/in/alec-peters/)
-   - [x][Data modeling training](https://www.linkedin.com/in/alec-peters/)
-   - [x][Github fundamentals training](https://www.linkedin.com/in/alec-peters/)
-   - [x][Data platform trainings](https://www.linkedin.com/in/alec-peters/)
-   - [x][Misc dbt videos](https://www.linkedin.com/in/alec-peters/)
-   - [x][Required Readings](https://www.linkedin.com/in/alec-peters/)
-   - [x][Recommended Readings](https://www.linkedin.com/in/alec-peters/)
+   - [x] [Data modeling training](https://www.linkedin.com/in/alec-peters/)
+   - [x] [Github fundamentals training](https://www.linkedin.com/in/alec-peters/)
+   - [x] [Data platform trainings](https://www.linkedin.com/in/alec-peters/)
+   - [x] [Misc dbt videos](https://www.linkedin.com/in/alec-peters/)
+   - [x] [Required Readings](https://www.linkedin.com/in/alec-peters/)
+   - [x] [Recommended Readings](https://www.linkedin.com/in/alec-peters/)
    
 2. Pick Warehouse Stack and Get Started[^1]
 
