@@ -1,4 +1,4 @@
-# dbt Training
+# dbt Training :dbt:
 1. General Info & Pre-Requisite Trainings
 
    - [x] [dbt labs fundamentals training](https://www.linkedin.com/in/alec-peters/)
