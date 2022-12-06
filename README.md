@@ -12,6 +12,5 @@
    - [bigquery + dbt](https://www.linkedin.com/in/alec-peters/)
    - [redshift + dbt](https://www.linkedin.com/in/alec-peters/)
    - [databricks + dbt](https://www.linkedin.com/in/alec-peters/)
-   - [dremio + dbt](https://www.linkedin.com/in/alec-peters/)
 
 [^1]: This is not all of dbt's supported data platforms. If you would like to use a data platform that isn't listed below you can use this training that is data platform agnostic or reach out to ... to determine which is training is right for you.
