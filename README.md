@@ -1,5 +1,6 @@
 # dbt trainig
 1. General Info & Pre-Requisite Trainings
+
 ⋅⋅⋅[dbt labs fundamentals training](https://www.linkedin.com/in/alec-peters/)
    - [Data modeling training](https://www.linkedin.com/in/alec-peters/)
    - [Github fundamentals training](https://www.linkedin.com/in/alec-peters/)
