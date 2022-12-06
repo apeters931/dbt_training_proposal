@@ -11,8 +11,7 @@
    
 2. Pick Warehouse Stack and Get Started[^1]
 
-   [Snowflake + dbt](https://github.com/analytics8/dbt/tree/main/Training#steps-for-our-a8-dbt-training)
-   
+   [Snowflake + dbt](https://github.com/analytics8/dbt/tree/main/Training#steps-for-our-a8-dbt-training)\
    [bigquery + dbt](https://www.linkedin.com/in/alec-peters/)
    
    [redshift + dbt](https://www.linkedin.com/in/alec-peters/)
